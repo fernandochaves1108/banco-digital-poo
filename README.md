@@ -12,6 +12,6 @@ Funcionalidades:
 - Consulta de saldo
 
 Tecnologias:
-Java
-Swing
-Serialização de arquivos
+Java,
+Swing,
+Serialização de arquivos.
